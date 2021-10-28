@@ -198,7 +198,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: calc(200%/3);
-    background: url(/ddd/blob/main/assets/img/Slider/slider1.jpg) top center / cover no-repeat; 
+    background: url(https://haianh24.github.io/ddd//assets/img/Slider/slider1.jpg) top center / cover no-repeat; 
 }
 
 #slider .text-cotent {
