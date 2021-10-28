@@ -198,7 +198,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: calc(200%/3);
-    background: url(https://www.rnz.co.nz/assets/news/103819/eight_col_Adele_live_in_Auckland_-_Getty_Images.jpg?1490302860) top center / cover no-repeat; 
+    background: url(/main/ddd/assets/img/Slider/slider1.jpg) top center / cover no-repeat; 
 }
 
 #slider .text-cotent {
